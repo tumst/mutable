@@ -1,7 +1,7 @@
 /**
  * 
  * auther by Sa-ard Samenram
- * 
+ * Change for dynamics variables
  */
 
 /**
