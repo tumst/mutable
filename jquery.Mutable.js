@@ -1,4 +1,9 @@
-
+/**
+ * MuTable is jQuery plugin table create auto table and CRUD
+ * 
+ * @param {type} $
+ * @returns {undefined}
+ */
 
 // JavaScript Document  
 (function($){  
