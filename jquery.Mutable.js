@@ -1,4 +1,10 @@
 /**
+ * 
+ * auther by Sa-ard Samenram
+ * 
+ */
+
+/**
  * MuTable is jQuery plugin table create auto table and CRUD
  * 
  * @param {type} $
